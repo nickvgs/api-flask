@@ -1,6 +1,7 @@
 # dados do virtualenv
 
 Scripts/
+include/
 pyvenv.cfg
 
 # Byte-compiled / optimized / DLL files
